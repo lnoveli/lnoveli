@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ChatGPT Image 21 de jul. de 2026, 21_34_07.png" width="100%">
+</p>
 <div align="center">
 
 # < LEONARDO NOVELI />
