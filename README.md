@@ -1,45 +1,21 @@
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
 <div align="center">
 
-<div align="center">
+# Leonardo Noveli
 
-<div align="center">
+### AI Strategy • Business Analysis • AI Implementation
 
-# < LEONARDO NOVELI />
+Building AI solutions that connect business strategy, healthcare innovation and digital transformation.
 
-### AI Strategy • Business Analysis • AI Implementation • Healthcare Innovation
+<br>
 
-<p>
-Building intelligent systems that connect business, data and artificial intelligence.
-</p>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI+Solutions.;Business+Analysis+%26+Strategy.;Learning+AI+Engineering.;Creating+AI+Agents.;Always+Learning." />
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
-
----
-<h2>💻 Terminal</h2>
-
-```console
-$ whoami
-
-Leonardo Noveli
-
-Role:
-→ AI Strategy
-→ Business Analysis
-→ Digital Transformation
-
-Current Focus:
-→ Artificial Intelligence
-→ Data Analytics
-→ AI Implementation
-→ Healthcare Innovation
-
-Mission:
-Building intelligent solutions that generate real business impact.
-```
 
 ---
