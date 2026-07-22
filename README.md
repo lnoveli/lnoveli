@@ -108,14 +108,6 @@ Research projects exploring Demography, Population Health, Aging and applied Dat
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lnoveli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnoveli&layout=compact&theme=transparent&hide_border=true" />
-</p>
----
-
 ## Let's Connect
 
 I'm always interested in conversations about Artificial Intelligence, Business Strategy, Digital Transformation and Healthcare Innovation.
