@@ -13,3 +13,26 @@ Building intelligent systems that connect business, data and artificial intellig
 </div>
 
 ---
+<h2>💻 Terminal</h2>
+
+```console
+$ whoami
+
+Leonardo Noveli
+
+Role:
+→ AI Strategy
+→ Business Analysis
+→ Digital Transformation
+
+Current Focus:
+→ Artificial Intelligence
+→ Data Analytics
+→ AI Implementation
+→ Healthcare Innovation
+
+Mission:
+Building intelligent solutions that generate real business impact.
+```
+
+---
