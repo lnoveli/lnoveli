@@ -70,6 +70,7 @@ Data analytics and Business Intelligence projects focused on healthcare operatio
 Research projects exploring Demography, Population Health, Aging and Artificial Intelligence applied to healthcare.
 
 **Focus:** Epidemiology • Statistics • R • Scientific Research
+
 ---
 
 ## Tech Stack
