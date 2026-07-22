@@ -110,14 +110,10 @@ Research projects exploring Demography, Population Health, Aging and applied Dat
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lnoveli&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnoveli&layout=compact&hide_border=true"/>
-
-</div>
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lnoveli&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnoveli&layout=compact&theme=transparent&hide_border=true" />
+</p>
 ---
 
 ## Let's Connect
