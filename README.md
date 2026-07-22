@@ -4,7 +4,7 @@
 
 ### AI Strategy • Business Analysis • AI Implementation
 
-Building AI solutions that connect business strategy, healthcare innovation and digital transformation.
+Helping organizations transform data and AI into measurable business impact.
 
 <br>
 
@@ -12,7 +12,7 @@ Building AI solutions that connect business strategy, healthcare innovation and 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:noveli.leonardo@outlook.com">
   <img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
