@@ -30,14 +30,12 @@ Today, my work is centered on AI Strategy, Business Analysis and AI Implementati
 
 ## Current Focus
 
-- Artificial Intelligence Strategy
-- Business Analysis
-- AI Implementation
-- AI Agents
-- Generative AI
-- Process Automation
-- Healthcare Innovation
-- Data Analytics
+- 🤖 Artificial Intelligence Strategy
+- 📈 Business Analysis & Process Improvement
+- 🧠 AI Implementation & Adoption
+- ⚡ AI Agents & Workflow Automation
+- 📊 Data Analytics & Business Intelligence
+- 🏥 Healthcare Innovation
 
 ---
 
