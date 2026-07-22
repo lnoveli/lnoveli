@@ -43,26 +43,33 @@ Today, my work is centered on AI Strategy, Business Analysis and AI Implementati
 
 ### 🤖 AI Learning Journey
 
-A public knowledge base documenting my transition into Artificial Intelligence through hands-on projects, notes and practical experiments.
+A structured roadmap documenting my transition into Artificial Intelligence through practical projects, technical notes and real-world applications.
 
----
-
-### 📊 Healthcare Analytics
-
-Analytics and Business Intelligence projects focused on healthcare, operational efficiency and decision support.
+**Focus:** AI Fundamentals • Prompt Engineering • RAG • AI Agents • LangChain
 
 ---
 
 ### 🧠 AI Business Solutions
 
-Practical AI applications designed to improve business processes, automate workflows and create measurable value.
+A collection of practical AI solutions designed to automate workflows, improve decision-making and generate measurable business value.
+
+**Focus:** Automation • LLM Applications • Business Processes • AI Strategy
+
+---
+
+### 📊 Healthcare Analytics
+
+Data analytics and Business Intelligence projects focused on healthcare operations, population health and evidence-based decision-making.
+
+**Focus:** Python • SQL • Power BI • Data Visualization
 
 ---
 
 ### 📚 Research
 
-Research projects exploring Demography, Population Health, Aging and applied Data Science.
+Research projects exploring Demography, Population Health, Aging and Artificial Intelligence applied to healthcare.
 
+**Focus:** Epidemiology • Statistics • R • Scientific Research
 ---
 
 ## Tech Stack
