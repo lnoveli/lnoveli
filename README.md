@@ -8,7 +8,7 @@ Building AI solutions that connect business strategy, healthcare innovation and 
 
 <br>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/](https://www.linkedin.com/in/leonardonoveli/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
